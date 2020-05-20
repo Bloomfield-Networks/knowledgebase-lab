@@ -2,3 +2,5 @@ site_name: Bloomfield Networks - Testing Site
 nav:
     - Home: index.md
     - About: about.md
+    - Phone System: pbx.md
+theme: readthedocs
