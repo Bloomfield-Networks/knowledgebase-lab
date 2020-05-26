@@ -17,7 +17,5 @@ This is a bulleted list
 * Item 5
 
 
-```
-
-Code block```
+```Code block```
 
